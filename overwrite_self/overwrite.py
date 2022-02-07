@@ -29,7 +29,6 @@ class t2(basis):
     def function_only_in_t2(self) -> None:
         print("\tthis can only be called from t2")
 
-
 #------- test -------
 
 test_object = t1()
